@@ -27,6 +27,7 @@ const CurrencyConverter = () => {
   const handleAmountChange = (e) => {
     const amount = e.target.value;
     setSelectedOption({ ...selectedOption, amount });
+    
   };
 
   const handleCurrencyChange = (name, selectedOption) => {
