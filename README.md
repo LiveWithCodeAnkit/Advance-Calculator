@@ -9,7 +9,15 @@ This repository contains a small React application that provides functionality f
 - **useState:** Leverage React's built-in hook for managing state within functional components.
 - **Tailwind CSS:** Employed for responsive and customizable styling of the application.
 - **React Router Dom:** Handle navigation and routing, enabling multiple pages within the React app.
+## Topics Covered
 
+- JavaScript
+- HTML5
+- CSS3
+- ReactJS
+- CSS Grid
+- tailwind CSS
+- CSS Flexbox
 ## Usage
 
 1. Clone the repository:
