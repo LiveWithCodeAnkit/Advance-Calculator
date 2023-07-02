@@ -11,7 +11,9 @@ const changeing = [
   { value: 80, label: "Indian Rupee" },
   { value: 50, label: "Nepal" },
 ];
-
+console.log('====================================');
+console.log("LLL");
+console.log('====================================');
 const CurrencyConverter = () => {
   const [selectedOption, setSelectedOption] = useState({
     fromCurrency: null,
